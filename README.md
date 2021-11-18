@@ -12,7 +12,7 @@
   <a href="app.netlify.com/sites/modern-workplace-squad/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/80c651ea-e904-43fc-8e1f-fe5e23845d1d/deploy-status"></a>
 </p>
 
-## Introduction !
+## Introduction 
 
 We are **Modern Workplace Squad**, which is a part of Microsoft Malaysia to spread positivity by providing technical and educational solutions not limited to employees, employers, educators, and students from Malaysia, but also people across the globe.
 
